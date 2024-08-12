@@ -50,4 +50,3 @@ jobs:
         run: |
           source venv/bin/activate
           safety check --ignore 70612
-
